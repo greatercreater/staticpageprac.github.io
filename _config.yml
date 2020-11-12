@@ -1,12 +1,12 @@
 # Site settings
 name: name
 email: email
-url: url
+url: "https://greatercreater.githun.io"
 description: "A blog and a portfolio"
 author: "author"
 title: "BlogFolio"
 permalink: pretty
-baseurl:
+baseurl:""
 
 remote_theme: lamccloskey/jekyll-theme-blogfolio
 
